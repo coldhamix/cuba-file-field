@@ -38,7 +38,7 @@ The element wraps `vaadin-upload` component.
                    files="{{files}}">
       <div class="file-list">
         <template is="dom-repeat" items="[[files]]" as="file">
-          <vaadin-upload-file file="[[file]]" on-tap="_handleFileClick"></vaadin-upload-file>
+          <vaadin-upload-file file="[[file]]" on-click="_handleFileClick"></vaadin-upload-file>
         </template>
       </div>
     </vaadin-upload>
