@@ -4,7 +4,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
     "cuba-app": "cuba-elements/cuba-app#^0.2.0",
-    "vaadin-upload": "coldhamix/vaadin-upload#^1.1.4"
+    "vaadin-upload": "coldhamix/vaadin-upload#^2.1.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
